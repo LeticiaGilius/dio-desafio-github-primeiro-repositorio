@@ -46,5 +46,19 @@ Repositório criado para o Desafio de Projeto
 - git pull - Puxa para o local
 - cd .. - Volta a pasta
 
+### Ordem para inclusão dos arquivos no Git/GitHub
+
+~~_Sim, preciso anotar porque estou iniciando e meu cérebro não é tão bom rsrs_~~
+
+git status
+
+git add .
+
+git commit -m "mensagem"
+
+git push origin main
+
+
+
 
 
