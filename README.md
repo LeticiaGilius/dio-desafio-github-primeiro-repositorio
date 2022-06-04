@@ -1,7 +1,7 @@
 # Desafio de Projeto sobre Git/Git Hub da DIO
 Repositório criado para o Desafio de Projeto
 
-<img src="C:\Users\Leticia\Desktop\Captura de tela 2022-06-04 085407.png" style="zoom:100%;" />
+![Captura de tela 2022-06-04 085407](https://user-images.githubusercontent.com/106357019/171999019-b2761183-c1dc-4e4b-9867-873b1ecbcf1c.png)
 
 ![Badge](https://img.shields.io/badge/Blog-DIO-%237159c1?style=for-the-badge&logo=ghost)
 
